@@ -1,11 +1,11 @@
-Emergency Service Locator 
+# Emergency Service Locator 
     The Emergency Service Locator is a user-friendly application designed to help people quickly find and connect with essential emergency services like hospitals, fire stations, and police stations. It simplifies access to critical help          during emergencies by showing nearby services based on your location.
-What my Application Does:
-For Users:
+## What my Application Does:
+### For Users:
 ⦁	Lets you search for emergency services near you.
 ⦁	Provides direct contact options to call or email services instantly.
 ⦁	Displays locations on a map for easy navigation.
-For Admins:
+### For Admins:
 ⦁	Makes it simple to add, update, or remove service details.
 ⦁	Keeps all information up-to-date for users.
 ⦁	Ensures that the database is well-organized and easy to manage.
